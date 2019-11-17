@@ -10,6 +10,7 @@ public class MyRestController {
 	public String wish() {
 		String msg = "welcome to Spring boot with Git Example";
 		/////////////ddddddddddddddjdnjdnf
+		//kumar
 		return msg;
 		
 
