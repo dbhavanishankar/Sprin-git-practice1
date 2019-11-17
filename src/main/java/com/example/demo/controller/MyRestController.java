@@ -11,6 +11,7 @@ public class MyRestController {
 		String msg = "welcome to Spring boot with Git Example";
 		/////////////ddddddddddddddjdnjdnf
 		//kumar
+		//kumar1
 		
 		
 		return msg;
