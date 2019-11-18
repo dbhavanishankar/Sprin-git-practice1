@@ -9,7 +9,7 @@ public class MyRestController {
 	@GetMapping("/wish")
 	public String wish() {
 		String msg = "welcome to Spring boot with Git Example";
-		//kumar1
+		//kumar12
 		return msg;
 		
 
