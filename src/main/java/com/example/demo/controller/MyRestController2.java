@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class MyRestController2 {
 
 	@GetMapping("/wish")
-	public String wish() 
+	public String wish() {
 		String msg="hi welcome to RestController2";
 		return msg;
 	}
