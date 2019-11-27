@@ -8,7 +8,7 @@ public class MyRestController2 {
 
 	@GetMapping("/wish")
 	public String wish() {
-		return "hi welcome to RestController2";
+		return "msg";
 	}
 
 }
