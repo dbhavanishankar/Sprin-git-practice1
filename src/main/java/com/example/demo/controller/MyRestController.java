@@ -20,4 +20,11 @@ public class MyRestController {
 		
 
 	}
+	@GetMapping("/wish2")
+	public String wish2() {
+		String msg = "welcome to Spring boot with Git Examples bhavani latest1234567";
+		return msg;
+		
+
+	}
 }
